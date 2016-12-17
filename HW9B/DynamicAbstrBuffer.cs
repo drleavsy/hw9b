@@ -4,23 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HW9
+namespace HW9B
 {
     public abstract class DynamicAbstrBuffer<T> : IDynamicArray<T>
     {
-        protected int sizeA;
-        protected int count; // 
-        
         public abstract void Add(T newValue);
-        public abstract int Capacity();
-        public abstract T Get();
-        public abstract void Insert(int newIndex);
-        public abstract void Remove(T oldValue);
+        public abstract T Get(int ind);
+        public abstract void Insert(int ind, T newVal);
+        public abstract T Remove(int ind);
         public abstract int Size();
 
         public abstract bool IsFull();
         public abstract bool IsEmpty();
-        public abstract void Peek();
+        public abstract T Peek();
         public abstract void Print();
     }
 }

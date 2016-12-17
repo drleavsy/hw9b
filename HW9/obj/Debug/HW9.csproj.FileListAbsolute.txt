@@ -1,5 +1,0 @@
-c:\users\drleavsy\documents\visual studio 2015\Projects\HW9\HW9\bin\Debug\HW9.exe.config
-c:\users\drleavsy\documents\visual studio 2015\Projects\HW9\HW9\bin\Debug\HW9.exe
-c:\users\drleavsy\documents\visual studio 2015\Projects\HW9\HW9\bin\Debug\HW9.pdb
-c:\users\drleavsy\documents\visual studio 2015\Projects\HW9\HW9\obj\Debug\HW9.exe
-c:\users\drleavsy\documents\visual studio 2015\Projects\HW9\HW9\obj\Debug\HW9.pdb

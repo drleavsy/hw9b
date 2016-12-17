@@ -4,13 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HW9
+namespace HW9B
 {
-    interface IBuffer
+    interface IMyStack<T> : IBuffer<T>
     {
-        bool IsFull();
-        bool IsEmpty();
-        void Peek();
-        void Print();
+        void Push(T newTop);
+        T Pop();
     }
 }

@@ -7,8 +7,8 @@
     <ProjectGuid>{66475BF5-4B81-476E-A1C0-214E4F3EA50A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HW9</RootNamespace>
-    <AssemblyName>HW9</AssemblyName>
+    <RootNamespace>HW9B</RootNamespace>
+    <AssemblyName>HW9B</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,6 +48,8 @@
     <Compile Include="DynamicStack.cs" />
     <Compile Include="IBuffer.cs" />
     <Compile Include="IDynamicArray.cs" />
+    <Compile Include="IMyQueue.cs" />
+    <Compile Include="IMyStack.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
