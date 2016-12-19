@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DynamicAbstrBuffer.cs" />
+    <Compile Include="DynamicArrayAbstr.cs" />
+    <Compile Include="DynamicArray.cs" />
     <Compile Include="DynamicQueue.cs" />
     <Compile Include="DynamicStack.cs" />
     <Compile Include="IBuffer.cs" />

@@ -12,11 +12,10 @@ namespace HW9B
         public abstract T Get(int ind);
         public abstract void Insert(int ind, T newVal);
         public abstract T Remove(int ind);
-        public abstract int Size();
-
+        /*
         public abstract bool IsFull();
         public abstract bool IsEmpty();
         public abstract T Peek();
-        public abstract void Print();
+        public abstract void Print();*/
     }
 }

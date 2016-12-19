@@ -1,6 +1,5 @@
 C:\Users\drleavsy\Documents\Visual Studio 2015\Projects\HW9B\HW9B\bin\Debug\HW9B.exe.config
 C:\Users\drleavsy\Documents\Visual Studio 2015\Projects\HW9B\HW9B\bin\Debug\HW9B.exe
 C:\Users\drleavsy\Documents\Visual Studio 2015\Projects\HW9B\HW9B\bin\Debug\HW9B.pdb
-C:\Users\drleavsy\Documents\Visual Studio 2015\Projects\HW9B\HW9B\obj\Debug\HW9B.csprojResolveAssemblyReference.cache
 C:\Users\drleavsy\Documents\Visual Studio 2015\Projects\HW9B\HW9B\obj\Debug\HW9B.exe
 C:\Users\drleavsy\Documents\Visual Studio 2015\Projects\HW9B\HW9B\obj\Debug\HW9B.pdb
