@@ -20,7 +20,7 @@ namespace HW9B
             QSize = 0;
             maxSize = sizeQ;
             linkSize = 0;
-            nodeHead.setNextNode(null);
+            //nodeHead.setNextNode(null);
         }
 
         public int Size()

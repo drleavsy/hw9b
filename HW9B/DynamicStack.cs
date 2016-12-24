@@ -16,7 +16,7 @@ namespace HW9B
         {
             linkSize = 0;
             top = 0;
-            nodeHead.setNextNode(null);
+            //nodeHead.setNextNode(null);
             stackSize = 0;
             maxSize = sizeStack;
         }
@@ -83,7 +83,8 @@ namespace HW9B
             if (!IsFull())
             {
                 top = linkSize;
-                Insert(top, newTop); // push one element
+                //Insert(top, newTop); // push one element
+                Add(newTop);
                 stackSize++;   // increase the size of stack
             }
         }

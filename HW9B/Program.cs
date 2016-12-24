@@ -53,8 +53,8 @@ namespace HW9B
                                 // return true if stack is still not empty, otherwise return false
                                 if (!StackInst.IsEmpty())
                                 {
-                                    Console.Write("Your stack is: ");
                                     StackInst.Pop();
+                                    Console.Write("Your stack is: ");
                                     StackInst.Print(); // print the stack current status
                                     Console.WriteLine("The value pulled from top is: " + StackInst.Peek());
                                 }

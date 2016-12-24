@@ -10,7 +10,7 @@ namespace HW9B
     {
         protected int linkSize;
         protected T TValue;
-        protected Node nodeHead = new Node();
+        protected Node nodeHead;// = new Node();
 
         protected class Node
         {
